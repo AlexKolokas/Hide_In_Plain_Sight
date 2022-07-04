@@ -7,6 +7,7 @@
 It creates a random string and in random places adds a # . After every # adds a character from your password.
 In a very simple example if the password was 123 then it will become #1#2#3 . But we add some randomness. So its like:
 
+![Alt text](Images/Screenshot 2022-07-04 172414.png)
 
 ## How to
 - `Save your password in a text document.` 
