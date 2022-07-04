@@ -9,10 +9,16 @@ In a very simple example if the password was 123 then it will become #1#2#3 . Bu
 
 ![My Image](https://github.com/AlexKolokas/Hide_In_Plain_Sight/blob/main/Images/Screenshot%202022-07-04%20172414.png?raw=true) 
 
-## How to
+## How to 
+### Hide your password
 - `Save your password in a text document.` 
-- `Run the script.` 
+- `Run the H_P_S script.` 
 - `Choose the name of the text file with your password in.` 
 - `choose a length for your random string (something like 500).` 
 - `choose name to save the new file.` 
 - `Run the script.` 
+
+### Recover your password
+- `Run the H_P_S_to_pass script.` 
+- `Choose the name of the text file you want to recover.` 
+- `It will print your password.` 
